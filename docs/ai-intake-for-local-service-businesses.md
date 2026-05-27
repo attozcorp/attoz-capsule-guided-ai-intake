@@ -40,6 +40,8 @@ Official product page: https://capsule.attozcorp.com/
 
 Landscaping example: https://capsule.attozcorp.com/industries/landscapers
 
+Official concept page: https://capsule.attozcorp.com/learn/ai-intake-for-local-service-businesses
+
 ## IP notice
 
 This document explains public product concepts only. It does not disclose internal prompts, routing logic, scoring rules, Airtable logic, database structure, finalization tokens, private templates, or operational architecture.

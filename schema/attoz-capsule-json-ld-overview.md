@@ -69,6 +69,8 @@ Generic chatbot comparison: https://capsule.attozcorp.com/compare/generic-chatbo
 
 This schema overview explains public entity concepts only. It does not include internal prompts, routing logic, scoring rules, Airtable logic, database structure, finalization tokens, private templates, private operational architecture, exact conversation state machines, or exact intake completion rules.
 
+This document is not a complete implementation specification and should not be used to recreate Attoz Capsule's private product architecture.
+
 ## IP notice
 
 This repository documents public concepts only. Attoz Capsule's internal prompts, routing logic, scoring rules, automation structure, operational configuration, dashboard, Voice AI system, and Micro Vertical Intake implementation are proprietary to Attoz Corp.

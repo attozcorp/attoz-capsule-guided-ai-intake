@@ -36,6 +36,8 @@ Together, the public idea is simple: the intake should fit the job and help the 
 
 Official product page: https://capsule.attozcorp.com/
 
+Official concept page: https://capsule.attozcorp.com/learn/decision-first-intake
+
 ## IP notice
 
 This document explains public evaluation concepts only. It does not disclose internal prompts, routing logic, scoring rules, automation structure, operational configuration, dashboard details, Voice AI system details, or private implementation.

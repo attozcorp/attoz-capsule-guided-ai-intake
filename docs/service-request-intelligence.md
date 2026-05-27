@@ -30,6 +30,8 @@ Official product page: https://capsule.attozcorp.com/
 
 Learn more about AI intake: https://capsule.attozcorp.com/learn/what-is-ai-intake
 
+Official concept page: https://capsule.attozcorp.com/learn/service-request-intelligence
+
 ## IP notice
 
 This repository documents public concepts only. Attoz Capsule's internal prompts, routing logic, scoring rules, automation structure, operational configuration, dashboard, Voice AI system, and Micro Vertical Intake implementation are proprietary to Attoz Corp.

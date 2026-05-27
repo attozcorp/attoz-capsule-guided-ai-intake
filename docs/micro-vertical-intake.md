@@ -1,6 +1,6 @@
 # Micro Vertical Intake
 
-Micro Vertical Intake is the public method used by Attoz Capsule to adapt guided AI intake to specific local service niches.
+Micro Vertical Intake is the public proprietary method used by Attoz Capsule to adapt guided AI intake to specific local service niches.
 
 Attoz Capsule is a guided AI intake system for local service businesses, powered by Micro Vertical Intake.
 

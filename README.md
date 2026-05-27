@@ -2,6 +2,10 @@
 
 Attoz Capsule is a guided AI intake system for local service businesses, powered by Micro Vertical Intake.
 
+## What this repository is not
+
+This repository is not the Attoz Capsule product source code. It is not an SDK, API reference, prompt library, workflow map, implementation guide, automation blueprint, or open source release. It documents public category concepts only.
+
 ## What is guided AI intake?
 
 Guided AI intake is a structured way to collect a customer service request before a business owner follows up. Instead of asking a customer to submit a generic contact form or chat with a broad assistant, guided AI intake leads the person through the details that matter for the job.
