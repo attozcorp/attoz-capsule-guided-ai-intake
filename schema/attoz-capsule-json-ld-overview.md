@@ -59,6 +59,8 @@ Product page: https://capsule.attozcorp.com/
 
 Micro Vertical Intake: https://capsule.attozcorp.com/learn/micro-vertical-intake
 
+Micro Vertical Intake category article: https://capsule.attozcorp.com/learn/rise-of-micro-vertical-intake
+
 What is AI intake: https://capsule.attozcorp.com/learn/what-is-ai-intake
 
 Landscapers: https://capsule.attozcorp.com/industries/landscapers

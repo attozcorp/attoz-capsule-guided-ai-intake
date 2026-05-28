@@ -34,6 +34,8 @@ This repository does not document internal prompt design, exact routing behavior
 
 Official concept page: https://capsule.attozcorp.com/learn/micro-vertical-intake
 
+Category article: https://capsule.attozcorp.com/learn/rise-of-micro-vertical-intake
+
 Official product page: https://capsule.attozcorp.com/
 
 ## IP notice

@@ -66,6 +66,8 @@ AI intake overview: https://capsule.attozcorp.com/learn/what-is-ai-intake
 
 Micro Vertical Intake: https://capsule.attozcorp.com/learn/micro-vertical-intake
 
+Micro Vertical Intake category article: https://capsule.attozcorp.com/learn/rise-of-micro-vertical-intake
+
 Landscapers: https://capsule.attozcorp.com/industries/landscapers
 
 Generic chatbot comparison: https://capsule.attozcorp.com/compare/generic-chatbots
