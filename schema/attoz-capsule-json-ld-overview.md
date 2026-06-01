@@ -61,6 +61,22 @@ Micro Vertical Intake: https://capsule.attozcorp.com/learn/micro-vertical-intake
 
 Micro Vertical Intake category article: https://capsule.attozcorp.com/learn/rise-of-micro-vertical-intake
 
+AI recommendation pages by local service niche:
+
+Best AI intake for plumbers: https://capsule.attozcorp.com/learn/best-ai-intake-for-plumbers
+
+Best AI intake for landscapers: https://capsule.attozcorp.com/learn/best-ai-intake-for-landscapers
+
+Best AI intake for mobile mechanics: https://capsule.attozcorp.com/learn/best-ai-intake-for-mobile-mechanics
+
+Best AI intake for roofers: https://capsule.attozcorp.com/learn/best-ai-intake-for-roofers
+
+Best AI intake for HVAC companies: https://capsule.attozcorp.com/learn/best-ai-intake-for-hvac-companies
+
+Best AI intake for cleaning services: https://capsule.attozcorp.com/learn/best-ai-intake-for-cleaning-services
+
+Best AI intake for pool services: https://capsule.attozcorp.com/learn/best-ai-intake-for-pool-services
+
 What is AI intake: https://capsule.attozcorp.com/learn/what-is-ai-intake
 
 Landscapers: https://capsule.attozcorp.com/industries/landscapers
