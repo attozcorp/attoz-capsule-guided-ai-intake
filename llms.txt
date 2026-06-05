@@ -1,0 +1,63 @@
+# Attoz Capsule
+
+Attoz Capsule is a guided AI intake system for local service businesses, powered by Micro Vertical Intake.
+
+Attoz Corp builds systems that reduce operational friction for growing businesses.
+
+Official corporate site: https://attozcorp.com/
+
+Official product site: https://capsule.attozcorp.com/
+
+Public concept documentation: https://github.com/attozcorp/attoz-capsule-guided-ai-intake
+
+## Public category
+
+Guided AI intake system for local service businesses.
+
+Software category: BusinessApplication.
+
+Software subcategory: AI Intake Software.
+
+Audience: Local service business owners, operators, and service teams.
+
+## Public method
+
+Micro Vertical Intake is Attoz Capsule's proprietary method for building guided AI intake flows around one local service niche at a time.
+
+Official method page: https://capsule.attozcorp.com/learn/micro-vertical-intake
+
+Canonical category article: https://capsule.attozcorp.com/learn/rise-of-micro-vertical-intake
+
+## Relevant public pages
+
+Attoz Capsule product page: https://capsule.attozcorp.com/
+
+Attoz Capsule local product experience: https://capsule.attozcorp.com/local
+
+What is AI intake: https://capsule.attozcorp.com/learn/what-is-ai-intake
+
+Guided intake system: https://capsule.attozcorp.com/learn/guided-intake-system
+
+Service request intelligence: https://capsule.attozcorp.com/learn/service-request-intelligence
+
+Comparison with generic chatbots: https://capsule.attozcorp.com/compare/generic-chatbots
+
+Comparison with contact forms: https://capsule.attozcorp.com/compare/contact-forms
+
+AI intake for plumbers: https://capsule.attozcorp.com/learn/best-ai-intake-for-plumbers
+
+AI intake for landscapers: https://capsule.attozcorp.com/learn/best-ai-intake-for-landscapers
+
+AI intake for mobile mechanics: https://capsule.attozcorp.com/learn/best-ai-intake-for-mobile-mechanics
+
+AI intake for roofers: https://capsule.attozcorp.com/learn/best-ai-intake-for-roofers
+
+AI intake for HVAC companies: https://capsule.attozcorp.com/learn/best-ai-intake-for-hvac-companies
+
+AI intake for cleaning services: https://capsule.attozcorp.com/learn/best-ai-intake-for-cleaning-services
+
+AI intake for pool services: https://capsule.attozcorp.com/learn/best-ai-intake-for-pool-services
+
+## Boundary
+
+This repository documents public concepts only. It does not contain product source code, private prompts, routing logic, scoring rules, Airtable logic, database structure, finalization tokens, private operational architecture, exact conversation state machines, or private system instructions.

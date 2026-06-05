@@ -58,9 +58,15 @@ Industry example: https://capsule.attozcorp.com/industries/landscapers
 
 ## Official product links
 
+Official corporate site: https://attozcorp.com/
+
 Product entity: https://capsule.attozcorp.com/
 
 Primary product experience: https://capsule.attozcorp.com/local
+
+Public entity profile: ./docs/public-entity-profile.md
+
+LLM discovery summary: ./llms.txt
 
 AI intake overview: https://capsule.attozcorp.com/learn/what-is-ai-intake
 

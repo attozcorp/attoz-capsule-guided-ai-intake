@@ -19,6 +19,8 @@ Official product URL: https://capsule.attozcorp.com/
 
 Primary product experience: https://capsule.attozcorp.com/local
 
+Official corporate URL: https://attozcorp.com/
+
 ## Public schema types
 
 Public Attoz Capsule pages may use schema types such as:
@@ -56,6 +58,12 @@ Public method:
 ## Related pages
 
 Product page: https://capsule.attozcorp.com/
+
+Corporate site: https://attozcorp.com/
+
+Public entity profile: ../docs/public-entity-profile.md
+
+LLM discovery summary: ../llms.txt
 
 Micro Vertical Intake: https://capsule.attozcorp.com/learn/micro-vertical-intake
 
